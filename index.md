@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Template-
 layout: home
 ---
 
